@@ -1,0 +1,25 @@
+{
+  "name": "webpack-box",
+  "version": "1.0.0",
+  "description": "This box is our most bare official implementation with Webpack.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truffle-box/webpack-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truffle-box/webpack-box/issues"
+  },
+  "homepage": "https://github.com/truffle-box/webpack-box#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^4.6.0"
+  }
+}
